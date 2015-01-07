@@ -1,0 +1,15 @@
+{
+  "name": "typescript_express_simple",
+  "version": "0.0.0",
+  "description": "typescript_express_simple",
+  "main": "app.js",
+  "author": {
+    "name": "Jean",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^3.4.4",
+    "jade": "^1.8.2",
+    "stylus": "^0.49.3"
+  }
+}
